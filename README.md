@@ -31,21 +31,21 @@ Different analytical techniques were implemented to identify customer behaviour 
 Regression analysis was implemented to evaluate the relationship between customer cloud usage and satisfaction scores.
 
 <p align="center">
-  <img src="Figures/Figure2_Regression_Analysis.png" width="700"/>
+  <img src="Images/Regression Analysis .png" width="600"/>
 </p>
 
 ## 🔹 Cluster Analysis
 Clustering techniques were used to group customers according to spending patterns and service usage behaviour.
 
 <p align="center">
-  <img src="Figures/Figure3_Cluster_Analysis.png" width="700"/>
+  <img src="Images/Cluster Analysis .png" width="600"/>
 </p>
 
 ## 🔹 A/B Testing
 A/B testing methods were implemented to analyse the impact of training hours on customer satisfaction and subscription renewal probability.
 
 <p align="center">
-  <img src="Figures/Figure5_AB_Testing.png" width="700"/>
+  <img src="Images/AB Testing .png" width="600"/>
 </p>
 
 
@@ -64,7 +64,7 @@ The dataset was cleaned, filtered, grouped, and validated to improve analytical 
 ## 🔹 Sample Data Preparation
 
 <p align="center">
-  <img src="Figures/Figure10_SampleDataset.png" width="800"/>
+  <img src="Images/Sample Data selected from the Raw Data Set .png" width="800"/>
 </p>
 
 
@@ -75,19 +75,19 @@ Pivot tables were implemented to summarise business information and extract mean
 ## 🔹 Customer Satisfaction Analysis
 
 <p align="center">
-  <img src="Figures/Figure12_PivotTable1.png" width="700"/>
+  <img src="Images/Pivot Table 1 .png" width="500"/>
 </p>
 
 ## 🔹 Support Request Analysis
 
 <p align="center">
-  <img src="Figures/Figure14_PivotTable2.png" width="700"/>
+  <img src="Images/Pivot Table 2 .png" width="500"/>
 </p>
 
 ## 🔹 Renewal Probability Analysis
 
 <p align="center">
-  <img src="Figures/Figure16_PivotTable3.png" width="700"/>
+  <img src="Images/Pivot Table 3 .png" width="550"/>
 </p>
 
 
@@ -103,7 +103,7 @@ A business intelligence dashboard was developed in Microsoft Excel to convert co
 - Executive-level reporting visuals  
 
 <p align="center">
-  <img src="Figures/Figure17_Dashboard.png" width="900"/>
+  <img src="Images/Dashboard .png" width="900"/>
 </p>
 
 # 🖥 Tools and Technologies Used
