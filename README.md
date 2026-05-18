@@ -23,34 +23,31 @@ The project explores the strategic role of Big Data in organisational decision-m
 - ⚖️ Ethical and compliance considerations in data analytics  
 - 🏢 Simulated IBM business intelligence environment  
 
-# 📊 Statistical and Graphical Analysis
-
+## 📊 Statistical and Graphical Analysis
 Different analytical techniques were implemented to identify customer behaviour patterns, operational trends, and business intelligence insights.
 
-## 🔹 Regression Analysis
+### 🔹 Regression Analysis
 Regression analysis was implemented to evaluate the relationship between customer cloud usage and satisfaction scores.
 
 <p align="center">
   <img src="Images/Regression Analysis .png" width="600"/>
 </p>
 
-## 🔹 Cluster Analysis
+### 🔹 Cluster Analysis
 Clustering techniques were used to group customers according to spending patterns and service usage behaviour.
 
 <p align="center">
   <img src="Images/Cluster Analysis .png" width="600"/>
 </p>
 
-## 🔹 A/B Testing
+### 🔹 A/B Testing
 A/B testing methods were implemented to analyse the impact of training hours on customer satisfaction and subscription renewal probability.
 
 <p align="center">
   <img src="Images/AB Testing .png" width="600"/>
 </p>
 
-
-
-# 🗂 Data Manipulation and Preparation
+## 🗂 Data Manipulation and Preparation
 
 The dataset was cleaned, filtered, grouped, and validated to improve analytical accuracy and business reporting quality.
 
@@ -61,37 +58,35 @@ The dataset was cleaned, filtered, grouped, and validated to improve analytical 
 - Preparing datasets for pivot analysis  
 - Validating data consistency  
 
-## 🔹 Sample Data Preparation
+### 🔹 Sample Data Preparation
 
 <p align="center">
   <img src="Images/Sample Data selected from the Raw Data Set .png" width="800"/>
 </p>
 
-
-# 📋 Pivot Table Analysis
+## 📋 Pivot Table Analysis
 
 Pivot tables were implemented to summarise business information and extract meaningful operational insights.
 
-## 🔹 Customer Satisfaction Analysis
+### 🔹 Customer Satisfaction Analysis
 
 <p align="center">
   <img src="Images/Pivot Table 1 .png" width="500"/>
 </p>
 
-## 🔹 Support Request Analysis
+### 🔹 Support Request Analysis
 
 <p align="center">
   <img src="Images/Pivot Table 2 .png" width="500"/>
 </p>
 
-## 🔹 Renewal Probability Analysis
+### 🔹 Renewal Probability Analysis
 
 <p align="center">
   <img src="Images/Pivot Table 3 .png" width="550"/>
 </p>
 
-
-# 📊 Dashboard Development
+## 📊 Dashboard Development
 
 A business intelligence dashboard was developed in Microsoft Excel to convert complex datasets into clear and interactive business insights.
 
@@ -106,7 +101,7 @@ A business intelligence dashboard was developed in Microsoft Excel to convert co
   <img src="Images/Dashboard .png" width="900"/>
 </p>
 
-# 🖥 Tools and Technologies Used
+## 🖥 Tools and Technologies Used
 
 - Microsoft Excel  
 - Pivot Tables & Pivot Charts  
@@ -117,8 +112,7 @@ A business intelligence dashboard was developed in Microsoft Excel to convert co
 - Dashboard Visualisation  
 - Business Intelligence Methodologies  
 
-
-# ⚖️ Ethical and Compliance Considerations
+## ⚖️ Ethical and Compliance Considerations
 
 The project also evaluated ethical and regulatory responsibilities associated with modern business intelligence systems.
 
@@ -128,7 +122,6 @@ The project also evaluated ethical and regulatory responsibilities associated wi
 - Ethical data handling  
 - AI bias and fairness  
 - Security and access controls  
-
 
 ## ⚠️ Disclaimer
 This repository was developed for academic and educational purposes to demonstrate the implementation of Big Data analytics, statistical techniques, data visualisation, and business intelligence methodologies within a simulated IBM business environment. 
